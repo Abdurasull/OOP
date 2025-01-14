@@ -7,9 +7,8 @@ class Instrument:
         self.type_ins = Type_inst
 
     def sort(self):
-        if self.price:
-            if self.price > 2_000_000 and self.type_ins == 'klaviatura':
-                print(f"Instrument nomi: {self.name}\nIshlab chiqarilgan kompaniyasi: {self.name_comp}\nNarxi: {self.price}\n\n")
+        if self.price > 2_000_000 and self.type_ins == 'klaviatura':
+            print(f"Instrument nomi: {self.name}\nIshlab chiqarilgan kompaniyasi: {self.name_comp}\nNarxi: {self.price}\n\n")
 list_inst = []
 list_inst.append(Instrument("Pyanina", 6_000_000, "KPR", "klaviatura"))              
 list_inst.append(Instrument("Dumbura", 500_000, "Uz", "Udarcha"))              
