@@ -1,0 +1,60 @@
+Savatga solingan vaqt 2025-01-14  08:18:10
+Mahsulot nomi: Olma
+Mahsulot narxi: 5000
+
+Savatga solingan vaqt 2025-01-14  08:18:10
+Mahsulot nomi: Sok
+Mahsulot narxi: 8000
+
+Savatga solingan vaqt 2025-01-14  08:28:19
+Mahsulot nomi: Olma
+Mahsulot narxi: 5000
+
+Savatga solingan vaqt 2025-01-14  08:28:19
+Mahsulot nomi: Sok
+Mahsulot narxi: 8000
+
+Savatga solingan vaqt 2025-01-14  08:31:09
+Mahsulot nomi: Olma
+Mahsulot narxi: 5000
+
+Savatga solingan vaqt 2025-01-14  08:31:09
+Mahsulot nomi: Sok
+Mahsulot narxi: 8000
+
+Savatga solingan vaqt 2025-01-14  08:34:52
+Mahsulot nomi: Olma
+Mahsulot narxi: 5000
+
+Savatga solingan vaqt 2025-01-14  08:34:52
+Mahsulot nomi: Sok
+Mahsulot narxi: 8000
+
+Savatga solingan vaqt 2025-01-14  08:34:52
+Mahsulot nomi: anor
+Mahsulot narxi: 15000
+
+Savatga solingan vaqt 2025-01-14  08:37:18
+Mahsulot nomi: Olma
+Mahsulot narxi: 5000
+
+Savatga solingan vaqt 2025-01-14  08:37:18
+Mahsulot nomi: Sok
+Mahsulot narxi: 8000
+
+Savatga solingan vaqt 2025-01-14  08:37:18
+Mahsulot nomi: anor
+Mahsulot narxi: 15000
+
+Savatga solingan vaqt 2025-01-14  08:45:09
+Mahsulot nomi: Olma
+Mahsulot narxi: 5000
+
+Savatga solingan vaqt 2025-01-14  08:45:09
+Mahsulot nomi: Sok
+Mahsulot narxi: 8000
+
+Savatga solingan vaqt 2025-01-14  08:45:09
+Mahsulot nomi: anor
+Mahsulot narxi: 15000
+
